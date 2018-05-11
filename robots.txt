@@ -27,4 +27,4 @@ Allow: /
 User-agent: Googlebot-Mobile
 Allow: /
 
-Sitemap: http://ableapplicant.com/sitemap.xml
+Sitemap: http://greekheritage.tours/sitemap.xml
