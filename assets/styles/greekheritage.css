@@ -75,6 +75,11 @@ header .statement {
 	font-size: 5.5em;
     line-height: .8em;
 }
+header .statement_explanation {
+	color: white;
+	margin-top: 39px;
+	font-size: 1.8em;
+}
 header .actions {
 	text-align: right;
 	margin-top: 50px;
