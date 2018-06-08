@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GreekHeritage-Title-v1';
+    src: url('GreekHeritage-Title-v1.ttf') format('truetype'),
+        url('GreekHeritage-Title-v1.svg#GreekHeritage-Title-v1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
